@@ -1,4 +1,4 @@
-# Roverbot
+# RoverBot
 
 Author: Jack Lindsey
 
